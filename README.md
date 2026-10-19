@@ -1,6 +1,6 @@
 # Reproducibility Materials
 
-This repository contains code for the manuscript.
+This repository contains code for the manuscript **“Modeling Dynamic Correlation Matrices with Shrinkage Priors.”**.
 
 ## Contents
 
@@ -12,5 +12,3 @@ This repository contains code for the manuscript.
 ## How to run
 
 Open the relevant R scripts and run them in R or RStudio.
-
-The code is provided to help reviewers understand and reproduce the analyses in the manuscript.
